@@ -30,3 +30,9 @@
 ```
 1.https://tb.rg-adguard.net/public.php
 ```
+
+
+# ssl配置模板
+```
+1.https://ssl-config.mozilla.org/
+```
